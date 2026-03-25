@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "KellX88_Assignment1.html",
+    "href": "KellX88_Assignment1.html",
+    "title": "KellX88_Assignment1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "KellX88_Assignment1.html#quarto",
+    "href": "KellX88_Assignment1.html#quarto",
+    "title": "KellX88_Assignment1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Assignment1_about.html",
+    "href": "Assignment1_about.html",
+    "title": "Assignment 1 - About",
+    "section": "",
+    "text": "Assignment 1 - About\nimport matplotlib.pyplot as plt\ndf_pd = df.toPandas() plt.bar(df_pd[“Name”], df_pd[“Age”], color=“skyblue”) plt.title(“Age Distribution”) plt.xlabel(“Name”) plt.ylabel(“Age”) plt.show()"
+  },
+  {
+    "objectID": "Assignment1_index.html",
+    "href": "Assignment1_index.html",
+    "title": "Assignment 1 - Home",
+    "section": "",
+    "text": "Assignment 1 - Home\nfrom pyspark.sql import SparkSession import pandas as pd\nspark = SparkSession.builder.appName(“QuartoDemo_Assignment1”).getOrCreate()\ndata = [(“Alice”, 34), (“Bob”, 45), (“Cathy”, 29), (“David”, 51)] columns = [“Name”, “Age”] df = spark.createDataFrame(data, columns)\ndf.show(3) df.describe().show()\ndf.toPandas().head()"
+  }
+]
