@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "PySpark Quarto Demo",
+    "section": "",
+    "text": "```bash cat &lt; about.qmd — title: “About” format: html —"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "PySpark Quarto Demo",
+    "section": "About Me",
+    "text": "About Me\nimport platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) mem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -19,19 +33,5 @@
     "title": "Home",
     "section": "Welcome to My Quarto Site",
     "text": "Welcome to My Quarto Site\ntry: from pyspark.sql import SparkSession spark = SparkSession.builder.getOrCreate() df = spark.createDataFrame([(1, “Item A”), (2, “Item B”)], [“id”, “name”]) df.show() except ImportError: import pandas as pd df = pd.DataFrame({“id”: [1,2], “name”: [“Item A”, “Item B”]}) print(df)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "PySpark Quarto Demo",
-    "section": "",
-    "text": "```bash cat &lt; about.qmd — title: “About” format: html —"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "PySpark Quarto Demo",
-    "section": "About Me",
-    "text": "About Me\nimport platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) mem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
   }
 ]
