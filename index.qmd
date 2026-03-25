@@ -1,3 +1,4 @@
+
 cat <<EOF > index.qmd
 ---
 title: "Home"
@@ -16,3 +17,4 @@ except ImportError:
     import pandas as pd
     df = pd.DataFrame({"id": [1,2], "name": ["Item A", "Item B"]})
     print(df)
+```
