@@ -14,9 +14,9 @@ format: html
 import platform
 import psutil
 
-print("Operating System:", platform.system(), platform.release())
-print("Python Version:", platform.python_version())
+print("Operating System", platform.system(), platform.release())
+print("Python Version", platform.python_version())
 mem = psutil.virtual_memory()
-print("Total Memory (MB):", round(mem.total / (1024**2), 2))
-print("Available Memory (MB):", round(mem.available / (1024**2), 2))
+print("Total Memory (MB)", round(mem.total / (1024**2), 2))
+print("Available Memory (MB)", round(mem.available / (1024**2), 2))
 ```

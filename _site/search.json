@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "PySpark Quarto Demo",
+    "section": "",
+    "text": "cat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"About\"\nformat: html\n---\n\n## About Me\n\n::: {#2693a780 .cell execution_count=1}\n``` {.python .cell-code}\nimport platform\nimport psutil\n\nprint(\"Operating System\", platform.system(), platform.release())\nprint(\"Python Version\", platform.python_version())\nmem = psutil.virtual_memory()\nprint(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\nprint(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n\nOperating System Linux 6.17.0-1007-aws\nPython Version 3.12.3\nTotal Memory (MB) 7818.2\nAvailable Memory (MB) 5570.18\n\n:::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "cat &lt; index.qmd"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-quarto-site",
+    "href": "index.html#welcome-to-my-quarto-site",
+    "title": "Home",
+    "section": "Welcome to My Quarto Site",
+    "text": "Welcome to My Quarto Site\n\n\nCode\ntry:\n    from pyspark.sql import SparkSession\n    spark = SparkSession.builder.getOrCreate()\n    df = spark.createDataFrame([(1, \"Item A\"), (2, \"Item B\")], [\"id\", \"name\"])\n    df.show()\nexcept ImportError:\n    import pandas as pd\n    df = pd.DataFrame({\"id\": [1,2], \"name\": [\"Item A\", \"Item B\"]})\n    print(df)\n\n\n+---+------+\n| id|  name|\n+---+------+\n|  1|Item A|\n|  2|Item B|\n+---+------+"
+  }
+]
