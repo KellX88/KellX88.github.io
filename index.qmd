@@ -5,16 +5,16 @@ title: "Home"
 format: html
 ---
 
-## Welcome to My Quarto Site
+## Welcome
 
 ```{python}
-try:
-    from pyspark.sql import SparkSession
-    spark = SparkSession.builder.getOrCreate()
-    df = spark.createDataFrame([(1, "Item A"), (2, "Item B")], ["id", "name"])
-    df.show()
-except ImportError:
-    import pandas as pd
-    df = pd.DataFrame({"id": [1,2], "name": ["Item A", "Item B"]})
-    print(df)
+#try:
+#    from pyspark.sql import SparkSession
+#   spark = SparkSession.builder.getOrCreate()
+#   df = spark.createDataFrame([(1, "Item A"), (2, "Item B")], ["id", "name"])
+#   df.show()
+#except ImportError:
+#    import pandas as pd
+#    df = pd.DataFrame({"id": [1,2], "name": ["Item A", "Item B"]})
+#    print(df)
 ```
