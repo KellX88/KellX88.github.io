@@ -210,3 +210,6 @@ __marimo__/
 **/*.quarto_ipynb
 quarto-*.deb
 quarto-*.deb
+qmd-env/
+.venv/
+
