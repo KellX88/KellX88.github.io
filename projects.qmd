@@ -1,0 +1,27 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Job Postings Data Analysis (PySpark)
+
+- Processed large-scale job postings dataset using PySpark
+- Built relational tables and executed SQL queries
+- Analyzed salary trends, job roles, and industry demand
+
+---
+
+## Data Visualization Projects
+
+- Created dashboards using Tableau and PowerBI
+- Visualized trends in business and job market data
+- Presented insights through charts and reports
+
+---
+
+## Audit & Reporting Analytics
+
+- Built data-driven reports to support audit processes
+- Worked with stakeholders to deliver actionable insights
+

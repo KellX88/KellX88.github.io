@@ -1,0 +1,32 @@
+---
+title: "Experience"
+---
+
+# Experience
+
+## Citigroup Inc.
+
+Data Analytics Senior Analyst
+
+- Produced data metrics and analytics
+- Supported reporting for business and regulators
+- Used Tableau and PowerBI
+
+---
+
+## NYC Department of Transportation
+
+Intern
+
+- Conducted site visits
+- Managed permit applications
+- Analyzed survey data
+
+---
+
+## Dollaride
+
+Intern
+
+- Conducted research
+- Collected and analyzed survey data
