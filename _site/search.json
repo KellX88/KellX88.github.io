@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Kelly Xiao",
+    "section": "",
+    "text": "cat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"About\"\nformat: html\n---\n\n## About Me\n\n::: {#371be932 .cell execution_count=1}\n``` {.python .cell-code}\n#import platform\n#import psutil\n\n#print(\"Operating System\", platform.system(), platform.release())\n#print(\"Python Version\", platform.python_version())\n#mem = psutil.virtual_memory()\n#print(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\n#print(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n:::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "cat &lt; index.qmd"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "Welcome",
+    "text": "Welcome\n\n\nCode\n#try:\n#    from pyspark.sql import SparkSession\n#   spark = SparkSession.builder.getOrCreate()\n#   df = spark.createDataFrame([(1, \"Item A\"), (2, \"Item B\")], [\"id\", \"name\"])\n#   df.show()\n#except ImportError:\n#    import pandas as pd\n#    df = pd.DataFrame({\"id\": [1,2], \"name\": [\"Item A\", \"Item B\"]})\n#    print(df)"
+  }
+]
