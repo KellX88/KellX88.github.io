@@ -3,23 +3,23 @@ project:
 
 website:
   title: "Kelly Xiao"
+  search: false
   sidebar:
     style: docked
     contents:
       - text: "Home"
-        href: index.qmd
+        href: index.html
       - text: "About"
-        href: about.qmd
+        href: about.html
       - text: "Experience"
-        href: experience.qmd
+        href: experience.html
       - text: "Projects"
-        href: projects.qmd
+        href: projects.html
       - text: "Contact"
-        href: contact.qmd
+        href: contact.html
 
 format:
   html:
     theme: cosmo
     fontsize: 12pt
     mainfont: "Times New Roman"
-
