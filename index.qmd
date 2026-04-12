@@ -1,4 +1,30 @@
+---
+title: "Home"
+---
 
+# Kelly Xiao
+
+## Data Analytics | Business Analytics | Audit & Risk
+
+I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.
+
+I am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.
+
+---
+
+## What I Do
+
+- Analyze large datasets to support business and regulatory reporting
+- Build dashboards using Tableau and PowerBI
+- Support audit processes and data-driven decision making
+
+---
+
+## Current Focus
+
+- Data Analytics & Visualization  
+- Business Intelligence  
+- Risk & Audit Analytics  
 cat <<EOF > index.qmd
 ---
 title: "Home"

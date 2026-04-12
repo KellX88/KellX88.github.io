@@ -1,5 +1,42 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.
+
+I have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.
+
+My background combines business knowledge with data skills, allowing me to translate data into actionable insights.
 
 ---
+
+## Education
+
+**Boston University**  
+Master of Science in Applied Business Analytics  
+
+**University at Albany**  
+Bachelor of Science in Business Administration  
+Minor in Chinese and Economics  
+
+---
+
+## Skills
+
+- Data Analysis  
+- Tableau & PowerBI  
+- Microsoft Excel & PowerPoint  
+- Business Analytics  
+- Audit & Risk Analysis  
+
+---
+
+## Languages
+
+- English  
+- Mandarin Chinese -
 
 ```bash
 cat <<EOF > about.qmd
