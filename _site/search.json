@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Kelly Xiao",
     "section": "",
-    "text": "cat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"About\"\nformat: html\n---\n\n## About Me\n\n::: {#edc766d7 .cell execution_count=1}\n``` {.python .cell-code}\n#import platform\n#import psutil\n\n#print(\"Operating System\", platform.system(), platform.release())\n#print(\"Python Version\", platform.python_version())\n#mem = psutil.virtual_memory()\n#print(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\n#print(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n:::"
+    "text": "cat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"About\"\nformat: html\n---\n\n## About Me\n\n::: {#b9eb25ac .cell execution_count=1}\n``` {.python .cell-code}\n#import platform\n#import psutil\n\n#print(\"Operating System\", platform.system(), platform.release())\n#print(\"Python Version\", platform.python_version())\n#mem = psutil.virtual_memory()\n#print(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\n#print(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n:::"
   },
   {
     "objectID": "contact.html",
