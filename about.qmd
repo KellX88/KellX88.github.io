@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Introduction"
 ---
 
 # About Me
@@ -35,13 +35,13 @@ Minor in Chinese and Economics
 
 ## Languages
 
-- English  
-- Mandarin Chinese -
+- English (Fluent)  
+- Mandarin Chinese (Fluent)
 
 ```bash
 cat <<EOF > about.qmd
 ---
-title: "About"
+title: "Introduction"
 format: html
 ---
 

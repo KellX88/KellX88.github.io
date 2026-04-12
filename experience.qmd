@@ -2,8 +2,6 @@
 title: "Experience"
 ---
 
-# Experience
-
 ## Citigroup Inc.
 
 Data Analytics Senior Analyst

@@ -2,6 +2,5 @@
 title: "Contact"
 ---
 
-# Contact
-
 Email: kellyxiao583@gmail.com
+LinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b

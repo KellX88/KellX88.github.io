@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 ## Job Postings Data Analysis (PySpark)
 
 - Processed large-scale job postings dataset using PySpark
