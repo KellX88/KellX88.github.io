@@ -38,9 +38,4 @@ Minor in Chinese and Economics
 - English (Fluent)  
 - Mandarin Chinese (Fluent)
 
-```bash
-cat <<EOF > about.qmd
----
-title: "Introduction"
-format: html
----
+```

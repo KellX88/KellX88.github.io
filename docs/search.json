@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Introduction",
     "section": "",
-    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.\nI have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.\nMy background combines business knowledge with data skills, allowing me to translate data into actionable insights.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration\nMinor in Chinese and Economics\n\n\n\n\n\nData Analysis\n\nTableau & PowerBI\n\nMicrosoft Excel & PowerPoint\n\nBusiness Analytics\n\nAudit & Risk Analysis\n\n\n\n\n\n\nEnglish (Fluent)\n\nMandarin Chinese (Fluent)\n\n```bash cat &lt; about.qmd — title: “Introduction” format: html —",
+    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.\nI have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.\nMy background combines business knowledge with data skills, allowing me to translate data into actionable insights.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration\nMinor in Chinese and Economics\n\n\n\n\n\nData Analysis\n\nTableau & PowerBI\n\nMicrosoft Excel & PowerPoint\n\nBusiness Analytics\n\nAudit & Risk Analysis\n\n\n\n\n\n\nEnglish (Fluent)\n\nMandarin Chinese (Fluent)\n\n```",
     "crumbs": [
       "About"
     ]
@@ -34,7 +34,7 @@
     "href": "about.html#languages",
     "title": "Introduction",
     "section": "",
-    "text": "English (Fluent)\n\nMandarin Chinese (Fluent)\n\n```bash cat &lt; about.qmd — title: “Introduction” format: html —",
+    "text": "English (Fluent)\n\nMandarin Chinese (Fluent)\n\n```",
     "crumbs": [
       "About"
     ]
