@@ -1,0 +1,26 @@
+/* Center all page content */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Sidebar styling */
+.sidebar {
+  background-color: #6a0dad !important; /* purple */
+}
+
+/* Sidebar text */
+.sidebar a {
+  color: white !important;
+}
+
+/* Sidebar hover effect */
+.sidebar a:hover {
+  color: #d8b4ff !important;
+}
+
+/* Title styling */
+h1, h2, h3 {
+  text-align: center;
+}

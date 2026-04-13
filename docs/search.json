@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Introduction",
     "section": "",
-    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.\nI have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.\nMy background combines business knowledge with data skills, allowing me to translate data into actionable insights.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration\nMinor in Chinese and Economics\n\n\n\n\n\nData Analysis\n\nTableau & PowerBI\n\nMicrosoft Excel & PowerPoint\n\nBusiness Analytics\n\nAudit & Risk Analysis\n\n\n\n\n\n\nEnglish (Fluent)\n\nMandarin Chinese (Fluent)\n\ncat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"Introduction\"\nformat: html\n---\n\n## About Me\n\n::: {#2584701d .cell execution_count=1}\n``` {.python .cell-code}\n#import platform\n#import psutil\n\n#print(\"Operating System\", platform.system(), platform.release())\n#print(\"Python Version\", platform.python_version())\n#mem = psutil.virtual_memory()\n#print(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\n#print(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n:::",
+    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.\nI have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.\nMy background combines business knowledge with data skills, allowing me to translate data into actionable insights.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration\nMinor in Chinese and Economics\n\n\n\n\n\nData Analysis\n\nTableau & PowerBI\n\nMicrosoft Excel & PowerPoint\n\nBusiness Analytics\n\nAudit & Risk Analysis\n\n\n\n\n\n\nEnglish (Fluent)\n\nMandarin Chinese (Fluent)\n\n```bash cat &lt; about.qmd — title: “Introduction” format: html —",
     "crumbs": [
       "About"
     ]
@@ -34,7 +34,7 @@
     "href": "about.html#languages",
     "title": "Introduction",
     "section": "",
-    "text": "English (Fluent)\n\nMandarin Chinese (Fluent)\n\ncat &lt;&lt;EOF &gt; about.qmd\n---\ntitle: \"Introduction\"\nformat: html\n---\n\n## About Me\n\n::: {#2584701d .cell execution_count=1}\n``` {.python .cell-code}\n#import platform\n#import psutil\n\n#print(\"Operating System\", platform.system(), platform.release())\n#print(\"Python Version\", platform.python_version())\n#mem = psutil.virtual_memory()\n#print(\"Total Memory (MB)\", round(mem.total / (1024**2), 2))\n#print(\"Available Memory (MB)\", round(mem.available / (1024**2), 2))\n:::",
+    "text": "English (Fluent)\n\nMandarin Chinese (Fluent)\n\n```bash cat &lt; about.qmd — title: “Introduction” format: html —",
     "crumbs": [
       "About"
     ]
@@ -44,7 +44,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: kellyxiao583@gmail.com LinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b",
+    "text": "Email: kellyxiao583@gmail.com\nLinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b\nPhone Numner: (347)-827-6391",
     "crumbs": [
       "Contact"
     ]
@@ -134,7 +134,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd\n\n\ntitle: “Home” format: html\n\n\n\n\n\n#try:\n#    from pyspark.sql import SparkSession\n#   spark = SparkSession.builder.getOrCreate()\n#   df = spark.createDataFrame([(1, \"Item A\"), (2, \"Item B\")], [\"id\", \"name\"])\n#   df.show()\n#except ImportError:\n#    import pandas as pd\n#    df = pd.DataFrame({\"id\": [1,2], \"name\": [\"Item A\", \"Item B\"]})\n#    print(df)",
+    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd",
     "crumbs": [
       "Home"
     ]
@@ -164,17 +164,7 @@
     "href": "index.html#current-focus",
     "title": "Home",
     "section": "",
-    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd\n\n\ntitle: “Home” format: html",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Home",
-    "section": "",
-    "text": "#try:\n#    from pyspark.sql import SparkSession\n#   spark = SparkSession.builder.getOrCreate()\n#   df = spark.createDataFrame([(1, \"Item A\"), (2, \"Item B\")], [\"id\", \"name\"])\n#   df.show()\n#except ImportError:\n#    import pandas as pd\n#    df = pd.DataFrame({\"id\": [1,2], \"name\": [\"Item A\", \"Item B\"]})\n#    print(df)",
+    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd",
     "crumbs": [
       "Home"
     ]
