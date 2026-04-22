@@ -40,53 +40,43 @@
     ]
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Email: kellyxiao583@gmail.com\nLinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b\nPhone Numner: (347)-827-6391",
+    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd — title: “Home” format: html —",
     "crumbs": [
-      "Contact"
+      "Home"
     ]
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
+    "objectID": "index.html#data-analytics-business-analytics-audit-risk",
+    "href": "index.html#data-analytics-business-analytics-audit-risk",
+    "title": "Home",
     "section": "",
-    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
+    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.",
     "crumbs": [
-      "Experience"
+      "Home"
     ]
   },
   {
-    "objectID": "experience.html#citigroup-inc.",
-    "href": "experience.html#citigroup-inc.",
-    "title": "Experience",
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
     "section": "",
-    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
+    "text": "Analyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making",
     "crumbs": [
-      "Experience"
+      "Home"
     ]
   },
   {
-    "objectID": "experience.html#nyc-department-of-transportation",
-    "href": "experience.html#nyc-department-of-transportation",
-    "title": "Experience",
-    "section": "NYC Department of Transportation",
-    "text": "NYC Department of Transportation\nIntern\n\nConducted site visits\nManaged permit applications\nAnalyzed survey data",
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd — title: “Home” format: html —",
     "crumbs": [
-      "Experience"
-    ]
-  },
-  {
-    "objectID": "experience.html#dollaride",
-    "href": "experience.html#dollaride",
-    "title": "Experience",
-    "section": "Dollaride",
-    "text": "Dollaride\nIntern\n\nConducted research\nCollected and analyzed survey data",
-    "crumbs": [
-      "Experience"
+      "Home"
     ]
   },
   {
@@ -130,43 +120,53 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd",
+    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
     "crumbs": [
-      "Home"
+      "Experience"
     ]
   },
   {
-    "objectID": "index.html#data-analytics-business-analytics-audit-risk",
-    "href": "index.html#data-analytics-business-analytics-audit-risk",
-    "title": "Home",
+    "objectID": "experience.html#citigroup-inc.",
+    "href": "experience.html#citigroup-inc.",
+    "title": "Experience",
     "section": "",
-    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.",
+    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
     "crumbs": [
-      "Home"
+      "Experience"
     ]
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Home",
-    "section": "",
-    "text": "Analyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making",
+    "objectID": "experience.html#nyc-department-of-transportation",
+    "href": "experience.html#nyc-department-of-transportation",
+    "title": "Experience",
+    "section": "NYC Department of Transportation",
+    "text": "NYC Department of Transportation\nIntern\n\nConducted site visits\nManaged permit applications\nAnalyzed survey data",
     "crumbs": [
-      "Home"
+      "Experience"
     ]
   },
   {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
-    "title": "Home",
-    "section": "",
-    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\n\nRisk & Audit Analytics\ncat &lt; index.qmd",
+    "objectID": "experience.html#dollaride",
+    "href": "experience.html#dollaride",
+    "title": "Experience",
+    "section": "Dollaride",
+    "text": "Dollaride\nIntern\n\nConducted research\nCollected and analyzed survey data",
     "crumbs": [
-      "Home"
+      "Experience"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: kellyxiao583@gmail.com\nLinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b\nPhone Numner: (347)-827-6391",
+    "crumbs": [
+      "Contact"
     ]
   }
 ]

@@ -8,14 +8,14 @@ main {
 /* FORCE sidebar purple (strong override) */
 .sidebar,
 .nav-sidebar {
-  background-color: #6a0dad !important;
+  background-color: #975fbe !important;
 }
 
 /* Sidebar links (text styling) */
 .sidebar a,
 .nav-sidebar .nav-link {
   color: white !important;
-  font-size: 18px;      /* increase size */
+  font-size: 20px;      /* increase size */
   font-weight: bold;    /* make bold */
 }
 
@@ -33,7 +33,7 @@ main {
 
 /* Remove white flash / override default theme blocks */
 .nav-sidebar {
-  background-color: #6a0dad !important;
+  background-color:  #975fbe !important;
 }
 
 /* Headings centered */
@@ -48,7 +48,7 @@ main {
 
 /* Sidebar styling */
 .sidebar {
-  background-color: #6a0dad !important; /* purple */
+  background-color: #975fbe !important; /* purple */
 }
 
 /* Sidebar text */
@@ -58,4 +58,7 @@ main {
 
 /* Sidebar hover effect */
 .sidebar a:hover {
-  color: #d8b4ff !imp/* Title styling
+  color: #d8b4ff !important;
+}
+
+/* Title styling */

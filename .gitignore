@@ -213,3 +213,4 @@ quarto-*.deb
 qmd-env/
 .venv/
 
+quarto-*
