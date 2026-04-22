@@ -4,7 +4,7 @@ title: "Home"
 
 # Kelly Xiao
 
-![](images/profile.jpg){width=180px}
+![](images/profile.png){width=180px}
 
 ## Business Analytics | Audit & Risk
 
