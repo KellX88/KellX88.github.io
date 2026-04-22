@@ -1,25 +1,42 @@
-/* Center all content */
+/* Page background (make white) */
+body {
+  background-color: white;
+  text-align: left;
+}
+
+/* Center content container but NOT text */
 main {
   max-width: 800px;
   margin: 0 auto;
+  text-align: left;
+}
+
+/* Headings centered */
+h1, h2, h3 {
   text-align: center;
 }
 
-/* FORCE sidebar purple (strong override) */
+/* Fix bullet alignment */
+ul {
+  text-align: left;
+  display: inline-block;
+}
+
+/* Sidebar styling (keep purple ONLY here) */
 .sidebar,
 .nav-sidebar {
   background-color: #975fbe !important;
 }
 
-/* Sidebar links (text styling) */
+/* Sidebar links */
 .sidebar a,
 .nav-sidebar .nav-link {
   color: white !important;
-  font-size: 20px;      /* increase size */
-  font-weight: bold;    /* make bold */
+  font-size: 20px;
+  font-weight: bold;
 }
 
-/* Active page (currently selected) */
+/* Active page */
 .nav-sidebar .nav-link.active {
   background-color: #4b0082 !important;
   color: white !important;
@@ -30,35 +47,3 @@ main {
 .nav-sidebar .nav-link:hover {
   color: #d8b4ff !important;
 }
-
-/* Remove white flash / override default theme blocks */
-.nav-sidebar {
-  background-color:  #975fbe !important;
-}
-
-/* Headings centered */
-h1, h2, h3 {
-  text-align: center;
-}
-main {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-/* Sidebar styling */
-.sidebar {
-  background-color: #975fbe !important; /* purple */
-}
-
-/* Sidebar text */
-.sidebar a {
-  color: white !important;
-}
-
-/* Sidebar hover effect */
-.sidebar a:hover {
-  color: #d8b4ff !important;
-}
-
-/* Title styling */
