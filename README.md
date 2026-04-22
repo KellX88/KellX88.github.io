@@ -1,1 +1,3 @@
 # My Personal Site
+
+This website serves as a professional portfolio showcasing my background, skills, and experience in data analytics and business analytics. It highlights my academic work, technical projects, and professional experience. The site is designed to provide a clear overview of my capabilities, interests, and accomplishments, and to serve as a central place for potential employers and collaborators to learn more about my work.

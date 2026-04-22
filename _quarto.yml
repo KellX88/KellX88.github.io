@@ -24,6 +24,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    fontsize: 16pt
+    fontsize: 20pt
     mainfont: "Times New Roman"
     anchor-sections: false
