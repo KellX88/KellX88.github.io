@@ -1,34 +1,23 @@
-/* Page background (make white) */
-body {
-  background-color: white;
-  text-align: left;
+/* Make entire page white */
+html, body, .page-layout, .content {
+  background-color: white !important;
 }
 
-/* Center content container but NOT text */
+/* Main content area */
 main {
   max-width: 800px;
   margin: 0 auto;
   text-align: left;
+  background-color: white;
 }
 
-/* Headings centered */
-h1, h2, h3 {
-  text-align: center;
-}
-
-/* Fix bullet alignment */
-ul {
-  text-align: left;
-  display: inline-block;
-}
-
-/* Sidebar styling (keep purple ONLY here) */
+/* Sidebar ONLY = purple */
 .sidebar,
 .nav-sidebar {
   background-color: #975fbe !important;
 }
 
-/* Sidebar links */
+/* Sidebar text */
 .sidebar a,
 .nav-sidebar .nav-link {
   color: white !important;
@@ -42,12 +31,19 @@ ul {
   color: white !important;
 }
 
-/* Hover effect */
+/* Hover */
 .sidebar a:hover,
 .nav-sidebar .nav-link:hover {
   color: #d8b4ff !important;
 }
 
-img {
-  border-radius: 50%;
+/* Headings centered */
+h1, h2, h3 {
+  text-align: center;
+}
+
+/* Fix bullet alignment */
+ul {
+  display: inline-block;
+  text-align: left;
 }
