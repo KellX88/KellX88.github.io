@@ -25,7 +25,6 @@ I am pursuing a Master of Science in Applied Business Analytics at Boston Univer
 - Data Analytics & Visualization  
 - Business Intelligence  
 - Risk & Audit Analytics  
-cat <<EOF > index.qmd
 ---
 title: "Home"
 format: html

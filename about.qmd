@@ -4,11 +4,7 @@ title: "Introduction"
 
 # About Me
 
-I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.
-
-I have professional experience in data analytics and audit through my role at Citigroup, where I support reporting, regulatory requirements, and business insights.
-
-My background combines business knowledge with data skills, allowing me to translate data into actionable insights.
+I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics. I bring professional experience in data analytics and audit from my role at Citigroup, where I support reporting, regulatory requirements, and the development of business insights. My background combines strong business knowledge with technical data skills, enabling me to analyze complex information and translate it into clear, actionable insights that support informed decision-making.
 
 ---
 
@@ -18,24 +14,34 @@ My background combines business knowledge with data skills, allowing me to trans
 Master of Science in Applied Business Analytics  
 
 **University at Albany**  
-Bachelor of Science in Business Administration  
+Bachelor of Science in Business Administration (Concentration Marketing)
 Minor in Chinese and Economics  
 
 ---
 
 ## Skills
 
-- Data Analysis  
-- Tableau & PowerBI  
-- Microsoft Excel & PowerPoint  
-- Business Analytics  
-- Audit & Risk Analysis  
+- Adobe Illustrator
+- Adobe Photoshop
+- Audit
+- Data Analysis 
+- Microsoft Excel
+- Microsoft PowerPoint 
+- PowerBI
+- SharePoint  
+- Tableau
+
+---
+
+## Hobbies
+
+Outside of my academic and professional work, I enjoy a variety of hobbies that help me stay balanced and creative. I spend time swimming, which allows me to stay active and clear my mind, and journaling, which helps me reflect and stay organized. I also enjoy exploring new restaurants, as it gives me the chance to experience different cuisines and environments. In addition, I like baking, which combines creativity and precision while allowing me to share something enjoyable with others.
 
 ---
 
 ## Languages
 
-- English (Fluent)  
-- Mandarin Chinese (Fluent)
+- English  
+- Mandarin Chinese
 
 ```
