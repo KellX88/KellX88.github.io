@@ -4,7 +4,7 @@ title: "Home"
 
 # Kelly Xiao
 
-![](images/profile.png){width=180px}
+![](/home/ubuntu/KellX88.github.io/Headshot.PNG){width=180px}
 
 ## Business Analytics | Audit & Risk
 
