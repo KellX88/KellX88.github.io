@@ -8,17 +8,17 @@ website:
     style: docked
     contents:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "About"
-        href: about.html
+        href: about.qmd
       - text: "Experience"
-        href: experience.html
+        href: experience.qmd
       - text: "Projects"
-        href: projects.html
+        href: projects.qmd
       - text: "Resume"
-        href: resume.html
+        href: resume.qmd
       - text: "Contact"
-        href: contact.html
+        href: contact.qmd
 
 format:
   html:
