@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+Below is a downloadable PDF version of my resume.
+
+[Download Resume (PDF)](files/resume.pdf)

@@ -4,11 +4,17 @@ title: "Experience"
 
 ## Citigroup Inc.
 
-Data Analytics Senior Analyst
+Business Analytics Senior Analyst
 
-- Produced data metrics and analytics
-- Supported reporting for business and regulators
-- Used Tableau and PowerBI
+- Produced data metrics and analytics for reporting on the progress of 2020 Consent Order Commitments
+- Exposed to data Visualization tools such as Tableau and PowerBl
+- Assisted with responding lo ad-hoc requests Irom the business, regulators, and management
+
+Internal Audit Analvst
+
+-Provided assistance throughout the audit lifecycle and issue validations
+-Assembled PowerPoint decks for informational and training sessions related to audit work
+-Understand and effectively utilized the Internal Audit methodology for auditing work
 
 ---
 
@@ -16,9 +22,9 @@ Data Analytics Senior Analyst
 
 Intern
 
-- Conducted site visits
-- Managed permit applications
-- Analyzed survey data
+- Conducted site visits to plazas and open streets to follow up on concessions and activations
+-Responsible for partners' SAPO (Street Activity Permit Office) applications
+-Analvzed data from survevs conducted on open streets throughout the five boroughs in New York Citv
 
 ---
 
@@ -26,5 +32,6 @@ Intern
 
 Intern
 
-- Conducted research
-- Collected and analyzed survey data
+- Helped conduct ethnographic research on how dollar vans operate along Flatbush route in Brooklyn
+- Distributed surveys to van drivers to better understand driver preferences and challenges
+- Responsible for pinpointing geographical testing grounds for potential test users
