@@ -4,4 +4,4 @@ title: "Resume"
 
 Below is a downloadable PDF version of my resume.
 
-[Download Resume (PDF)](Kelly_Xiao.pdf)
+[Kelly_Xiao.pdf]

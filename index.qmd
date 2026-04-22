@@ -12,10 +12,7 @@ I currently work as a Business Analytics Senior Analyst at Citigroup, where I ap
 
 ## What I Do
 
-- Analyze large datasets to support business and regulatory reporting needs
-- Build dashboards using visualization tools such as Tableau
-- Support audit processes and data-driven decision making
-
+I analyze large datasets to support both business operations and regulatory reporting requirements, ensuring that insights are accurate, timely, and aligned with organizational goals. I design and build interactive dashboards using visualization tools such as Tableau, enabling stakeholders to easily interpret data, monitor key metrics, and make informed decisions. In addition, I support audit processes by applying data analytics to identify trends, detect anomalies, and enhance transparency. Through this work, I help drive data-driven decision-making across the organization, translating complex data into clear and actionable insights.
 ---
 
 ## Current Focus
