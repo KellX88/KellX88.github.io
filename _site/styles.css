@@ -1,19 +1,20 @@
-
-/* Main content area */
-main {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: left;
-  background-color: white;
+/* Force entire page purple */
+html, body, .page-layout, .content, main {
+  background-color: #975fbe !important;
 }
 
-/* Sidebar ONLY = purple */
+/* Keep text readable */
+body {
+  color: white;
+}
+
+/* Sidebar (optional: keep same or darker) */
 .sidebar,
 .nav-sidebar {
   background-color: #975fbe !important;
 }
 
-/* Sidebar text */
+/* Sidebar links */
 .sidebar a,
 .nav-sidebar .nav-link {
   color: white !important;
@@ -36,10 +37,4 @@ main {
 /* Headings centered */
 h1, h2, h3 {
   text-align: center;
-}
-
-/* Fix bullet alignment */
-ul {
-  display: inline-block;
-  text-align: left;
 }
