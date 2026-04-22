@@ -47,3 +47,7 @@ ul {
 .nav-sidebar .nav-link:hover {
   color: #d8b4ff !important;
 }
+
+img {
+  border-radius: 50%;
+}
