@@ -4,7 +4,10 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Below is a downloadable PDF version of my resume.\nDownload Resume (PDF)"
+    "text": "Below is a downloadable PDF version of my resume.\nDownload Resume (PDF)",
+    "crumbs": [
+      "Resume"
+    ]
   },
   {
     "objectID": "contact.html",
