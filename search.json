@@ -1,93 +1,95 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Below is a downloadable PDF version of my resume.\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: kellyxiao583@gmail.com\nLinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b\nPhone Number: (347)-827-6391",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Business Analytics Senior Analyst\n\nProduced data metrics and analytics for reporting on the progress of 2020 Consent Order Commitments\nExposed to data Visualization tools such as Tableau and PowerBl\nAssisted with responding lo ad-hoc requests Irom the business, regulators, and management\n\nInternal Audit Analvst\n-Provided assistance throughout the audit lifecycle and issue validations -Assembled PowerPoint decks for informational and training sessions related to audit work -Understand and effectively utilized the Internal Audit methodology for auditing work",
+    "crumbs": [
+      "Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#citigroup-inc.",
+    "href": "experience.html#citigroup-inc.",
+    "title": "Experience",
+    "section": "",
+    "text": "Business Analytics Senior Analyst\n\nProduced data metrics and analytics for reporting on the progress of 2020 Consent Order Commitments\nExposed to data Visualization tools such as Tableau and PowerBl\nAssisted with responding lo ad-hoc requests Irom the business, regulators, and management\n\nInternal Audit Analvst\n-Provided assistance throughout the audit lifecycle and issue validations -Assembled PowerPoint decks for informational and training sessions related to audit work -Understand and effectively utilized the Internal Audit methodology for auditing work",
+    "crumbs": [
+      "Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#nyc-department-of-transportation",
+    "href": "experience.html#nyc-department-of-transportation",
+    "title": "Experience",
+    "section": "NYC Department of Transportation",
+    "text": "NYC Department of Transportation\nIntern\n\nConducted site visits to plazas and open streets to follow up on concessions and activations -Responsible for partners’ SAPO (Street Activity Permit Office) applications -Analvzed data from survevs conducted on open streets throughout the five boroughs in New York Citv",
+    "crumbs": [
+      "Experience"
+    ]
+  },
+  {
+    "objectID": "experience.html#dollaride",
+    "href": "experience.html#dollaride",
+    "title": "Experience",
+    "section": "Dollaride",
+    "text": "Dollaride\nIntern\n\nHelped conduct ethnographic research on how dollar vans operate along Flatbush route in Brooklyn\nDistributed surveys to van drivers to better understand driver preferences and challenges\nResponsible for pinpointing geographical testing grounds for potential test users",
+    "crumbs": [
+      "Experience"
+    ]
+  },
+  {
+    "objectID": "about me.html",
+    "href": "about me.html",
     "title": "Introduction",
     "section": "",
-    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics. I bring professional experience in data analytics and audit from my role at Citigroup, where I support reporting, regulatory requirements, and the development of business insights. My background combines strong business knowledge with technical data skills, enabling me to analyze complex information and translate it into clear, actionable insights that support informed decision-making.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration (Concentration Marketing) Minor in Chinese and Economics\n\n\n\n\n\nAdobe Illustrator\nAdobe Photoshop\nAudit\nData Analysis\nMicrosoft Excel\nMicrosoft PowerPoint\nPowerBI\nSharePoint\n\nTableau\n\n\n\n\n\nOutside of my academic and professional work, I enjoy a variety of hobbies that help me stay balanced and creative. I spend time swimming, which allows me to stay active and clear my mind, and journaling, which helps me reflect and stay organized. I also enjoy exploring new restaurants, as it gives me the chance to experience different cuisines and environments. In addition, I like baking, which combines creativity and precision while allowing me to share something enjoyable with others.\n\n\n\n\n\nEnglish\n\nMandarin Chinese\n\n```",
-    "crumbs": [
-      "About"
-    ]
+    "text": "I am a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics. I bring professional experience in data analytics and audit from my role at Citigroup, where I support reporting, regulatory requirements, and the development of business insights. My background combines strong business knowledge with technical data skills, enabling me to analyze complex information and translate it into clear, actionable insights that support informed decision-making.\n\n\n\nBoston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration (Concentration Marketing)\nMinor in Chinese and Economics\n\n\n\n\n\nAdobe Illustrator\nAdobe Photoshop\nAudit\nData Analysis\nMicrosoft Excel\nMicrosoft PowerPoint\nPowerBI\nSharePoint\n\nTableau\n\n\n\n\n\nOutside of my academic and professional work, I enjoy a variety of hobbies that help me stay balanced and creative. I spend time swimming, which allows me to stay active and clear my mind, and journaling, which helps me reflect and stay organized. I also enjoy exploring new restaurants, as it gives me the chance to experience different cuisines and environments. In addition, I like baking, which combines creativity and precision while allowing me to share something enjoyable with others.\n\n\n\n\n\nEnglish\n\nMandarin Chinese\n\n```"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
+    "objectID": "about me.html#education",
+    "href": "about me.html#education",
     "title": "Introduction",
     "section": "",
-    "text": "Boston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration (Concentration Marketing) Minor in Chinese and Economics",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Boston University\nMaster of Science in Applied Business Analytics\nUniversity at Albany\nBachelor of Science in Business Administration (Concentration Marketing)\nMinor in Chinese and Economics"
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
+    "objectID": "about me.html#skills",
+    "href": "about me.html#skills",
     "title": "Introduction",
     "section": "",
-    "text": "Adobe Illustrator\nAdobe Photoshop\nAudit\nData Analysis\nMicrosoft Excel\nMicrosoft PowerPoint\nPowerBI\nSharePoint\n\nTableau",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Adobe Illustrator\nAdobe Photoshop\nAudit\nData Analysis\nMicrosoft Excel\nMicrosoft PowerPoint\nPowerBI\nSharePoint\n\nTableau"
   },
   {
-    "objectID": "about.html#hobbies",
-    "href": "about.html#hobbies",
+    "objectID": "about me.html#hobbies",
+    "href": "about me.html#hobbies",
     "title": "Introduction",
     "section": "",
-    "text": "Outside of my academic and professional work, I enjoy a variety of hobbies that help me stay balanced and creative. I spend time swimming, which allows me to stay active and clear my mind, and journaling, which helps me reflect and stay organized. I also enjoy exploring new restaurants, as it gives me the chance to experience different cuisines and environments. In addition, I like baking, which combines creativity and precision while allowing me to share something enjoyable with others.",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Outside of my academic and professional work, I enjoy a variety of hobbies that help me stay balanced and creative. I spend time swimming, which allows me to stay active and clear my mind, and journaling, which helps me reflect and stay organized. I also enjoy exploring new restaurants, as it gives me the chance to experience different cuisines and environments. In addition, I like baking, which combines creativity and precision while allowing me to share something enjoyable with others."
   },
   {
-    "objectID": "about.html#languages",
-    "href": "about.html#languages",
+    "objectID": "about me.html#languages",
+    "href": "about me.html#languages",
     "title": "Introduction",
     "section": "",
-    "text": "English\n\nMandarin Chinese\n\n```",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\n\n\ntitle: “Home” format: html —",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#data-analytics-business-analytics-audit-risk",
-    "href": "index.html#data-analytics-business-analytics-audit-risk",
-    "title": "Home",
-    "section": "",
-    "text": "I am currently a Data Analytics Senior Analyst at Citigroup, with experience in data reporting, audit processes, and business analytics.\nI am pursuing a Master of Science in Applied Business Analytics at Boston University, building advanced skills in data analysis, visualization, and decision-making.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Home",
-    "section": "",
-    "text": "Analyze large datasets to support business and regulatory reporting\nBuild dashboards using Tableau and PowerBI\nSupport audit processes and data-driven decision making",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
-    "title": "Home",
-    "section": "",
-    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\n\n\ntitle: “Home” format: html —",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "English\n\nMandarin Chinese\n\n```"
   },
   {
     "objectID": "projects.html",
@@ -100,8 +102,8 @@
     ]
   },
   {
-    "objectID": "projects.html#job-postings-data-analysis-pyspark",
-    "href": "projects.html#job-postings-data-analysis-pyspark",
+    "objectID": "projects.html#job-postings-data-analysis",
+    "href": "projects.html#job-postings-data-analysis",
     "title": "Projects",
     "section": "",
     "text": "Processed large-scale job postings dataset using PySpark\nBuilt relational tables and executed SQL queries\nAnalyzed salary trends, job roles, and industry demand",
@@ -114,69 +116,59 @@
     "href": "projects.html#data-visualization-projects",
     "title": "Projects",
     "section": "Data Visualization Projects",
-    "text": "Data Visualization Projects\n\nCreated dashboards using Tableau and PowerBI\nVisualized trends in business and job market data\nPresented insights through charts and reports",
+    "text": "Data Visualization Projects\n\nCreated dashboards using Tableau and PowerBI\nVisualized trends on progress of various projects within department\nPresented insights to management",
     "crumbs": [
       "Projects"
     ]
   },
   {
-    "objectID": "projects.html#audit-reporting-analytics",
-    "href": "projects.html#audit-reporting-analytics",
+    "objectID": "projects.html#ai-hackathon-project",
+    "href": "projects.html#ai-hackathon-project",
     "title": "Projects",
-    "section": "Audit & Reporting Analytics",
-    "text": "Audit & Reporting Analytics\n\nBuilt data-driven reports to support audit processes\nWorked with stakeholders to deliver actionable insights",
+    "section": "AI Hackathon Project",
+    "text": "AI Hackathon Project\n\nCoordinated and led the end-to-end development of a hackathon project\nCollaborated with team members to define the problem, design the solution, and divide responsibilities efficiently\nTranslated technical findings into clear, concise insights for presentation to judges and stakeholders",
     "crumbs": [
       "Projects"
     ]
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
+    "text": "I currently work as a Business Analytics Senior Analyst at Citigroup, where I apply business analytics to support data reporting, audit processes, and the generation of actionable insights for decision-making. I am also currently pursuing a Master of Science in Applied Business Analytics at Boston University, where I am strengthening my skills in data analysis, visualization, and data-driven strategy to better translate complex data into meaningful business outcomes.\n\n\n\n\n\nAnalyze large datasets to support business and regulatory reporting needs\nBuild dashboards using visualization tools such as Tableau\nSupport audit processes and data-driven decision making\n\n\n\n\n\n\nData Analytics & Visualization\n\nBusiness Intelligence\nExploring the use of AI\nRisk & Audit Analytics",
     "crumbs": [
-      "Experience"
+      "Home"
     ]
   },
   {
-    "objectID": "experience.html#citigroup-inc.",
-    "href": "experience.html#citigroup-inc.",
-    "title": "Experience",
+    "objectID": "index.html#business-analytics-audit-risk",
+    "href": "index.html#business-analytics-audit-risk",
+    "title": "Home",
     "section": "",
-    "text": "Data Analytics Senior Analyst\n\nProduced data metrics and analytics\nSupported reporting for business and regulators\nUsed Tableau and PowerBI",
+    "text": "I currently work as a Business Analytics Senior Analyst at Citigroup, where I apply business analytics to support data reporting, audit processes, and the generation of actionable insights for decision-making. I am also currently pursuing a Master of Science in Applied Business Analytics at Boston University, where I am strengthening my skills in data analysis, visualization, and data-driven strategy to better translate complex data into meaningful business outcomes.",
     "crumbs": [
-      "Experience"
+      "Home"
     ]
   },
   {
-    "objectID": "experience.html#nyc-department-of-transportation",
-    "href": "experience.html#nyc-department-of-transportation",
-    "title": "Experience",
-    "section": "NYC Department of Transportation",
-    "text": "NYC Department of Transportation\nIntern\n\nConducted site visits\nManaged permit applications\nAnalyzed survey data",
-    "crumbs": [
-      "Experience"
-    ]
-  },
-  {
-    "objectID": "experience.html#dollaride",
-    "href": "experience.html#dollaride",
-    "title": "Experience",
-    "section": "Dollaride",
-    "text": "Dollaride\nIntern\n\nConducted research\nCollected and analyzed survey data",
-    "crumbs": [
-      "Experience"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
     "section": "",
-    "text": "Email: kellyxiao583@gmail.com\nLinkedIn: http://linkedin.com/in/kelly-xiao-632b6117b\nPhone Number: (347)-827-6391",
+    "text": "Analyze large datasets to support business and regulatory reporting needs\nBuild dashboards using visualization tools such as Tableau\nSupport audit processes and data-driven decision making",
     "crumbs": [
-      "Contact"
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analytics & Visualization\n\nBusiness Intelligence\nExploring the use of AI\nRisk & Audit Analytics",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
