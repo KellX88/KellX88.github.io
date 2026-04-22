@@ -4,9 +4,10 @@ title: "Home"
 
 # Kelly Xiao
 
-<div style="text-align: center;">
-    <img src="Headshot.PNG" width="200">
-</div>
+div style="text-align: center;"
+    img src="Headshot.PNG" width="200"
+/div
+
 ## Business Analytics | Audit & Risk
 
 I currently work as a Business Analytics Senior Analyst at Citigroup, where I apply business analytics to support data reporting, audit processes, and the generation of actionable insights for decision-making. I am also currently pursuing a Master of Science in Applied Business Analytics at Boston University, where I am strengthening my skills in data analysis, visualization, and data-driven strategy to better translate complex data into meaningful business outcomes.
