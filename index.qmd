@@ -5,7 +5,7 @@ title: "Home"
 # Kelly Xiao
 
 <div style="text-align: center;">
-  <img src="headshot.png">
+  <img src="headshot.png" width="200">
 </div>
 
 ## Business Analytics | Audit & Risk
